@@ -1,6 +1,8 @@
 # chuck-norris-project
 Data from an external API project
 
+API: http://www.icndb.com/api/
+
 UI built with Skeleton
 
 ### Preview:
